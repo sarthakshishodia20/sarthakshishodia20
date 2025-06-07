@@ -20,6 +20,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,express,vercel,render,git,github,vscode,cloudinary,bootstrap,materialui,ejs" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thunderclient/thunderclient-original.svg" alt="Thunder Client" width="40" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" style="vertical-align:middle;" />
 </p>
 
 ---
@@ -62,12 +68,6 @@
   <a href="mailto:sarthakshishodia2004@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>  
   <a href="https://github.com/sarthakshishodia20" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
----
-
-### ✨ Quote of the Day
-
-> *“Coding is the poetry of logic — every line a step closer to brilliance.”*  
 
 ---
 
