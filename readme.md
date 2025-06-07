@@ -35,9 +35,14 @@
 
 **Coding Profiles**
 
-- [LeetCode](https://leetcode.com/u/Sarthak_Shishodia20/)  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/sarthakshishodia2004/)  
-- [Naukri Code360](https://www.naukri.com/code360/profile/sarthak_Shis20)  
+- <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="24" style="vertical-align:middle"/>  
+  [LeetCode](https://leetcode.com/u/Sarthak_Shishodia20/)  
+
+- <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="GeeksforGeeks" width="24" style="vertical-align:middle"/>  
+  [GeeksforGeeks](https://www.geeksforgeeks.org/user/sarthakshishodia2004/)  
+
+- <img src="https://static.naukimg.com/s/0/0/i/naukri_Logo_70x23.gif" alt="Naukri Code360" width="24" style="vertical-align:middle"/>  
+  [Naukri Code360](https://www.naukri.com/code360/profile/sarthak_Shis20)  
 
 ---
 
