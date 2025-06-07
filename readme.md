@@ -1,70 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sarthak Shishodia</h1>
-<h3 align="center">💻 MERN Stack Developer | 🎓 Engineering Student | 💡 Curious Coder</h3>
+# Hi, I'm Sarthak Shishodia 👋
+
+### MERN Stack Developer | Engineering Student | Problem Solver
+
+---
+
+**About Me**
+
+- 🚀 Building awesome projects with MERN stack & Java  
+- 💻 Skilled in Node.js, Express, MongoDB, EJS, Java, Git  
+- 📚 Currently mastering System Design & Advanced DSA  
+- 📫 Reach me at: sarthak.shishodia_cs22@gla.ac.in  
+
+---
+
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![EJS](https://img.shields.io/badge/EJS-grey?style=flat)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+---
+
+**Projects**
+
+- 🌍 [WanderLust](https://github.com/sarthakshishodia20/WanderLust) — Travel guide and booking platform  
+- 🏠 [PgDedo](https://github.com/sarthakshishodia20/PgDedo) — PG & Hostel finder for students & professionals  
+- 🍲 [ZaikaZunction](https://github.com/sarthakshishodia20/ZaikaZunction) — Food ordering and recipe app  
+
+---
+
+**Coding Profiles**
+
+- [LeetCode](https://leetcode.com/u/Sarthak_Shishodia20/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/sarthakshishodia2004/)  
+- [Naukri Code360](https://www.naukri.com/code360/profile/sarthak_Shis20)  
+
+---
+
+**GitHub Stats**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code...;DSA+%7C+Backend+%7C+System+Design+Lover;Building+PgDedo+for+Real+World+Impact" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakshishodia20&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📌 About Me
+**Connect**
 
-- 🔭 Currently working on: **PgDedo – PG Finder Platform for Students**
-- 👨‍💻 Learning: **System Design, DSA, and Clean Backend Architecture**
-- 💬 Ask me about: **Node.js, Express, MongoDB, EJS, Java, Git**
-- 📫 Mail me: [sarthak.shishodia_cs22@gla.ac.in](mailto:sarthak.shishodia_cs22@gla.ac.in)
-- 🧠 Fun Fact: *“I debug with coffee and deploy with dreams.”* ☕🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakshishodia20)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarthak.shishodia_cs22@gla.ac.in)  
 
 ---
 
-### 🧰 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,ejs,passport,git,github,vscode,linux" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-| Project Name | Description |
-|--------------|-------------|
-| 🔥 [PgDedo](https://github.com/sarthakshishodia20/PgDedo) | A digital platform to help students find PGs/Hostels with ease |
-| 🖼️ [MemeGen](https://github.com/sarthakshishodia20/memegen) | Meme Generator Web App with full CRUD functionality |
-| ⚙️ [GitHub CLI Tool](https://github.com/sarthakshishodia20/github-cli) | Manage GitHub repositories using a custom Node.js CLI |
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakshishodia20&show_icons=true&theme=github_dark&hide_title=false&hide_border=false" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarthakshishodia20&theme=github-dark&hide_border=false" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sarthakshishodia20"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sarthak.shishodia_cs22@gla.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sarthakshishodia20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### ✨ Quote of the Day
-
-> *“Code karte karte, khwab bhi likh daale…  
-> Jab duniya soyi thi, tab bug fix kiye humne.”* 🌙💻
-
----
-
-### 📍 Let's Build. Let’s Learn. Let’s Lead.
-
-> Thanks for visiting! If my profile inspires or helps you, feel free to star a repo 🌟 or say hi! 😄  
-> *Together, let’s turn code into change.* 💫
-
----
+*“Simple code, clean design, endless possibilities.”*  
