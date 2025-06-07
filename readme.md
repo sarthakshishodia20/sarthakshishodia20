@@ -20,12 +20,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,express,vercel,render,git,github,vscode,cloudinary,bootstrap,materialui,ejs" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thunderclient/thunderclient-original.svg" alt="Thunder Client" width="40" style="vertical-align:middle;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" style="vertical-align:middle;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" style="vertical-align:middle;" />
 </p>
 
 ---
@@ -56,7 +50,6 @@
 <p align="center">
   <a href="https://leetcode.com/u/Sarthak_Shishodia20/" title="LeetCode"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="28" style="vertical-align:middle" /></a> &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/sarthakshishodia2004/" title="GeeksforGeeks"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="GeeksforGeeks" width="28" style="vertical-align:middle" /></a> &nbsp;&nbsp;
-  <a href="https://www.codingninjas.com/codestudio/profile/sarthakshishodia2004" title="Coding Ninjas"><img src="https://static.codingninjas.com/assets-landing/images/logo-coding-ninjas.svg" alt="Coding Ninjas" width="28" style="vertical-align:middle" /></a>
 </p>
 
 ---
@@ -68,7 +61,6 @@
   <a href="mailto:sarthakshishodia2004@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>  
   <a href="https://github.com/sarthakshishodia20" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
 ---
 
 ### 📍 Let’s Build. Let’s Learn. Let’s Lead.
